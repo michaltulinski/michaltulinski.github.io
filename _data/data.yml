@@ -19,7 +19,7 @@ sidebar:
     github: michaltulinski
     gitlab:
     bitbucket:
-    twitter: ''
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -41,10 +41,10 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: Climbing
+      - item: Foreign languages
         link:
 
-      - item: Snowboarding
+      - item: Video games
         link:
 
       - item: Cooking
