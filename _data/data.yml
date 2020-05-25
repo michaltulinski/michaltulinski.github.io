@@ -99,29 +99,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are my sample projects.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MovieFight App
+        link: "#https://michaltulinski.github.io/moviefight/"
+        tagline: "An app that allows you to compare two movies of your choice."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Maze Game
+        link: "#https://michaltulinski.github.io/maze/"
+        tagline: "A maze game that runs directly inside the browser."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Timer
+        link: "#https://michaltulinski.github.io/maze/"
+        tagline: "A countdown timer built with JavaScript."
 
 skills:
     title: Skills &amp; Proficiency
